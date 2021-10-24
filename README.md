@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Kuba 
-- 👀 I’m interested in learning how to program
-- 🌱 I’m currently learning python 
-- 💞️ I’m looking to collaborate on all sorts of projects
-- 📫 How to reach me: just message me here
+- 🌱 I’m currently learning python and java
+
 
 <!---
 kubawen10/kubawen10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
