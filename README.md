@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Kuba 
-- 🌱 I’m currently learning python and java
+- 👋 Hi, I’m Kuba. I am a Computer Science student from Wrocław.
 
 
 <!---
